@@ -327,7 +327,7 @@ Potential improvements include:
 
 ## Author
 
-**Udit Bisht**
+**Jahad**
 
 ## License
 
